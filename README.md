@@ -18,15 +18,15 @@ The flexibility enables Ethereum developers to develop new completely decentrali
 
 This guide is divided into three sections:
 
-## 1. Terminology and Concept Comparisons
+### 1. Terminology and Concept Comparisons
 
 We'll demystify key terminologies and concepts within ICP, and outline any key differences between Ethereum and ICP (they are minimal, we promise!).
 
-## 2. Hands-On Tutorials
+### 2. Hands-On Tutorials
 
 It's time to roll up your sleeves and dive into the action! Our hands-on tutorials will guide you through the process of building on the ICP vs. Ethereum. 
 
-## 2. Examples Projects
+### 3. Examples Projects
 
 We'll showcase a variety of final example projects from the hands-on tutorials. 
 
